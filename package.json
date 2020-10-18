@@ -1,0 +1,10 @@
+{
+  "name": "leitor800v",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.5",
+    "sucrase": "^3.16.0"
+  }
+}
